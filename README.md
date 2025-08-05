@@ -1,2 +1,4 @@
 # JoaoZagoto1B.agrinho.recuperacao
-Esta é uma arte interativa, para ela aparecer deve-se clicar na tela e atender a varável focused,  caso não queira que tudo reinicie, suas teclas de comando  são "1", "2", "3","4". Uma apara sim, outra para não ,outra para pular para o final e mais uma para desligar a musica respectivamente. Leia as instruções dentro do jogo e responda as questões.
+referencias: 
+imagens do free pik
+MÃO (editada) //https://br.freepik.com/vetores-gratis/ilustracao-de-mao-e-pes-de-desenho-animado-retro-desenhado-a-mao_69122787.htm#fromView=search&page=1&position=20&uuid=6fedb096-2804-481f-bf93-6c991746e5e3&query=m%C3%A3o+cartoon
